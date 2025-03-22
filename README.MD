@@ -1,5 +1,5 @@
 # curso python con clexo07
-#comandos para mergear desde consola
+# comandos para mergear desde consola
 Paso 1 Clone el repositorio o actualice su repositorio local con los últimos cambios.
 
 git pull origen principal
