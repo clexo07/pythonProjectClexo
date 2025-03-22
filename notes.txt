@@ -1,0 +1,3 @@
+# correcciones que debes de aplicar 
+- revisar el primer codigo y corregir si hubiese errores
+- ponle guiones a mi readme.md
