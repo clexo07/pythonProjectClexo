@@ -33,15 +33,3 @@ git merge dev
 git push -u origin main
 </pre>
 
-<button onclick="copiarTexto()">📋 Copiar</button>
-
-<script>
-function copiarTexto() {
-    const codigo = document.getElementById("codigo").innerText;
-    navigator.clipboard.writeText(codigo).then(() => {
-        alert("Texto copiado al portapapeles!");
-    }).catch(err => {
-        console.error("Error al copiar: ", err);
-    });
-}
-</script>
