@@ -17,13 +17,6 @@ Paso 4 Empuje los cambios.
 - git push -u origin main
 
 
-## Comandos para mergear desde consola  
-
-```sh
-git pull origin main
-git checkout main
-git merge dev
-git push -u origin main
 
 ## Comandos para mergear desde consola 
 
