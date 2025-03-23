@@ -6,7 +6,7 @@ Paso 1 Clone el repositorio o actualice su repositorio local con los `últimos c
 git pull origen main
 ```
 Paso 2 `Cambie a la rama base` de la solicitud de extracción.
-- ```makdown
+-```makdown
 git checkout principal
 ```
 
