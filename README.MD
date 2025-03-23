@@ -19,13 +19,6 @@ Paso 4 Empuje los cambios.
 ```
 #como restaurar un git add
 ```makdown
-git restore ```
-
-
-### Opción 2: Agregar un botón de copiar con HTML  
-Si el `README.md` se ve en plataformas que admiten HTML (como GitHub Pages), puedes usar esto:  
-
-
-El bloque de código comienza con ` ```sh ` y finaliza con ` ``` `.  
-
-Si te refieres a otra cosa, dime más detalles para ayudarte mejor. 🚀
+git restore
+```
+ 🚀
