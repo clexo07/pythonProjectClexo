@@ -2,7 +2,7 @@
 # comandos para mergear desde consola
 Paso 1 Clone el repositorio o actualice su repositorio local con los `últimos cambios.`
 
-- ```makdown
+```makdown
 git pull origen main
 ```
 Paso 2 `Cambie a la rama base` de la solicitud de extracción.
@@ -11,9 +11,9 @@ git checkout principal
 ```
 
 Paso 3 Fusiona la rama de la cabeza con la rama base.
-
-- git merge dev
-
+- ```makdown
+git merge dev
+```
 Paso 4 Empuje los cambios.
 
 - git push -u origin main
