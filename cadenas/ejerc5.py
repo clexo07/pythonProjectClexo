@@ -4,4 +4,4 @@ def ejercicio5GetNumber():
 
 if __name__ == "__main__":
     ejercicio5GetNumber()
-    pass
+    
